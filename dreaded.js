@@ -310,7 +310,7 @@ if (badwordkick === 'TRUE' && isBotAdmin && !isAdmin && body && (new RegExp('\\b
       switch (command) {
       case "help":
         case "menu":
-let cap = `┌───═[ ${botname} ]═──▸
+let cap = `┌───═[ Owen🥃🍷]═──▸
 
 ▯ Hello ${m.pushName}
 This is a simple WhatsApp Bot.
